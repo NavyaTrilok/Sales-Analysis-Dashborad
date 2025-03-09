@@ -9,5 +9,9 @@ Used tableau to complete these Dashboards
 1) I have used Dimention filters, Measure Filters
 2) Calculated fields
 3) LOD Expressions
+4) Sets
+5) Parameters
+6) Groups
+7) Different kinds of charts
 
 to complete these dashboards
