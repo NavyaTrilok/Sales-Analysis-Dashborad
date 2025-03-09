@@ -1,8 +1,8 @@
 # Dashboards
 
-https://public.tableau.com/app/profile/navya.t1081/viz/SalesAnalysisDashboard_17414766006930/Dashboard1?publish=yes
+1) https://public.tableau.com/app/profile/navya.t1081/viz/SalesAnalysisDashboard_17414766006930/Dashboard1?publish=yes
 
-https://public.tableau.com/app/profile/trilok.navya.dubaka/viz/Customer-Churn-Dashboard/Story1?publish=yes
+2) https://public.tableau.com/app/profile/trilok.navya.dubaka/viz/Customer-Churn-Dashboard/Story1?publish=yes
 
 Used tableau to complete these Dashboards
 
