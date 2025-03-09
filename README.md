@@ -1,4 +1,4 @@
-# Sales-Analysis-Dashborad
+# Dashboards
 
 https://public.tableau.com/app/profile/navya.t1081/viz/SalesAnalysisDashboard_17414766006930/Dashboard1?publish=yes
 
